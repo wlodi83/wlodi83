@@ -2,8 +2,8 @@
 
 I am JavaScript/Ruby/Python developer and Data Engineer.
 
-- 🔭 I’m currently working on new project [Query.me](https://www.query.me)
-- 🌱 I’m Founder & CTO at [Query.me](https://www.query.me) and [Pushmetrics](https://www.pushmetrics.io)
+- 🔭 I’m currently working on new project [Query.me](https://query.me)
+- 🌱 I’m Founder & CTO at [Query.me](https://query.me) and [Pushmetrics](https://pushmetrics.io)
 
 <!--
 **wlodi83/wlodi83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
