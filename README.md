@@ -2,8 +2,8 @@
 
 I am JavaScript/Ruby/Python developer and Data Engineer.
 
-- 🔭 I’m currently working on new project [Query.me](https://query.me)
-- 🌱 I’m Founder & CTO at [Query.me](https://query.me) and [Pushmetrics](https://pushmetrics.io)
+- 🔭 I’m currently working on project [Pushmetrics](https://pushmetrics.io)
+- 🌱 I’m Founder & CTO at [Pushmetrics](https://pushmetrics.io)
 
 
 Currently at [Pushmetrics](https://pushmetrics.io). 
